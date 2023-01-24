@@ -1,0 +1,13 @@
+.body{
+    background-color: black;
+    min-height:100vh;
+}
+
+h2{
+    color: aliceblue;
+}
+
+imgdes{
+    border-radius: 5%;
+    border-color: rgb(245, 222, 179);
+}
